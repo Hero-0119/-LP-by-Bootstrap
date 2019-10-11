@@ -1,0 +1,56 @@
+/*!
+ * Start Bootstrap - Business Casual v5.0.9 (https://startbootstrap.com/template-overviews/business-casual)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/master/LICENSE)
+ */body{font-family:Lora,'ヒラギノ明朝 ProN W3',
+'Hiragino Mincho ProN';background-image:linear-gradient(rgba(47,23,15,.65),rgba(47,23,15,.65)),url(../img/bg.jpg);background-attachment:fixed;background-position:center;background-size:cover}h1,h2,h3,h4,h5,h6{font-family:Raleway,'ヒラギノ明朝 ProN W3',
+  'Hiragino Mincho ProN'}p{line-height:1.75}.text-faded{color:rgba(255,255,255,.3)}.site-heading{margin-top:5rem;margin-bottom:5rem}.page-section{margin-top:5rem}.section-heading{text-transform:uppercase}.section-heading .section-heading-upper{display:block;font-size:1rem;font-weight:800}.section-heading .section-heading-lower{display:block;font-size:3rem;font-weight:100}.bg-faded{background-color:rgba(255,255,255,.85)}#mainNav{background-color:rgba(47,23,15,.9);font-family:Raleway,'ヒラギノ明朝 ProN W3',
+    'Hiragino Mincho ProN'}#mainNav .navbar-brand{color:#e6a756}#mainNav .navbar-nav .nav-item .nav-link{color:rgba(255,255,255,.7);font-weight:800}#mainNav .navbar-nav .nav-item.active .nav-link{color:#e6a756}@media (min-width:992px){#mainNav .navbar-nav .nav-item .nav-link{font-size:.9rem}#mainNav .navbar-nav .nav-item .nav-link:hover{color:rgba(255,255,255,.4)}#mainNav .navbar-nav .nav-item.active .nav-link:hover{color:#e6a756}}.btn-xl{font-weight:700;font-size:.8rem;padding-top:1.5rem;padding-bottom:1.5rem;padding-left:2rem;padding-right:2rem}.intro{position:relative}@media (min-width:992px){.intro .intro-img{width:75%;height:100%;float:right}.intro .intro-text{left:0;width:40%;margin-top:1rem;position:absolute}.intro .intro-text .intro-button{width:100%;left:0;position:absolute;bottom:-2rem}}@media (min-width:1200px){.intro .intro-text{width:45%}}.cta{padding-top:5rem;padding-bottom:5rem;background-color:rgba(230,167,86,.9)}.cta .cta-inner{z-index: 99;position:relative;padding:3rem;margin:.5rem;background-color:rgba(255,255,255,.85)}.cta .cta-inner:before{z-index:-1;border-radius:.5rem;content:'';position:absolute;top:-.5rem;bottom:-.5rem;left:-.5rem;right:-.5rem;border:.25rem solid rgba(255,255,255,.85)}@media (min-width:992px){.about-heading .about-heading-img{position:relative;z-index:0}.about-heading .about-heading-content{margin-top:-5rem;position:relative;z-index:1}}@media (min-width:992px){.product-item .product-item-title{position:relative;z-index:1;margin-bottom:-3rem}.product-item .product-item-img{position:relative;z-index:0;max-width:60vw}.product-item .product-item-description{position:relative;z-index:1;margin-top:-3rem;max-width:50vw}}.list-hours{font-size:.9rem}.list-hours .list-hours-item{border-bottom:1px solid rgba(230,167,86,.5);padding-bottom:.25rem;margin-bottom:1rem;font-style:italic}.list-hours .list-hours-item.today{font-weight:700;color:#e6a756}@media (min-width:992px){.list-hours{width:50%;font-size:1.1rem}}.address strong{font-size:1.2rem}.footer{background-color:rgba(47,23,15,.9)}.text-primary{color:#e6a756!important}.bg-primary{background-color:#e6a756!important}.btn{box-shadow:0 3px 3px 0 rgba(33,37,41,.1)}.btn-primary{background-color:#e6a756;border-color:#e6a756}.btn-primary:active,.btn-primary:focus,.btn-primary:hover{background-color:#df902a;border-color:#df902a}.font-weight-light{font-weight:100!important}
+ section#contact .section-heading{color:#fff}section#contact .form-group{margin-bottom:25px}section#contact .form-group input,section#contact .form-group textarea{padding:20px}section#contact .form-group input.form-control{height:auto}section#contact .form-group textarea.form-control{height:248px}section#contact .form-control:focus{border-color:#fed136;box-shadow:none}section#contact ::-webkit-input-placeholder{font-weight:700;color:#ced4da;font-family:Montserrat,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'}section#contact :-moz-placeholder{font-weight:700;color:#ced4da;font-family:Montserrat,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'}section#contact ::-moz-placeholder{font-weight:700;color:#ced4da;font-family:Montserrat,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'}section#contact :-ms-input-placeholder{font-weight:700;color:#ced4da;font-family:Montserrat,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'}.footer-info :last-child{
+  margin-bottom: 0;
+}.footer-title {
+  font-size: 2.5rem;
+}.menu-ul{
+  list-style-type: none;
+}
+
+.menu-list{
+  width: 90%;
+  margin: 0 auto;
+
+  border-bottom: 1px solid black;
+  padding: 10px 0;
+}.map-wrapper{
+  overflow: hidden;
+}
+.map-wrapper iframe{
+  height: 45vh;
+  width: 100%;
+  vertical-align: bottom;
+}
+/* ページトップ */
+#page-top {
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 2;
+}
+#page-top a {
+  background: #666;
+  text-decoration: none;
+  color: #fff;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  display: block;
+  border-radius: 50px;
+}
+#page-top a:hover {
+  text-decoration: none;
+  background: #999;
+}
+
+.far{
+  widows: 70%;
+  height: 70%;
+}
